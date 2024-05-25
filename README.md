@@ -1,7 +1,4 @@
 # Batama
-Aplikasi ini berfokus pada penjualan yang ada pada kecamatan wonokromo, surabaya. 
-berniat untuk menghubungkan penjual dan pembeli yang ada disebut, kedepannya akan dikembangkan dalam lingkup kota surabaya.
-aplikasi ini dibuat untuk mendapatkan gelar S1 pada jurusan sistem informasi ITATS.
 
 <b>Features</b> : 
 - Login/Registration as a customer,
@@ -71,13 +68,13 @@ https://www.figma.com/file/98na6prcdnz2Yy5v2MTR01/Low-Fidelity%2C-Medium-Fidelit
 - [x] halaman akun
 - [x] halaman ubah profil
 - [x] halaman edit akun
-- [ ] halaman tentang aplikasi
+- [x] halaman tentang aplikasi
 - [x] halaman toko
-- [ ] halaman daftar toko
+- [x] halaman daftar toko
 - [x] halaman produk
 - [x] halaman tambah produk
 - [x] halaman keuangan
 - [x] halaman status pesanan (perlu dikirim, pembatalan, selesai)
-- [ ] halaman pengaturan toko
+- [x] halaman pengaturan toko
 - [x] search
 - [x] halaman halaman hasil search
